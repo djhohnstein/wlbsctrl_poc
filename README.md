@@ -18,6 +18,6 @@ Open the solution and build the "Release" version of the dll.
 
 The `demo` user should now be added to the Computer's users.
 
-## Reference
+## Blog Details
 
-* Link here
+https://posts.specterops.io/lateral-movement-scm-and-dll-hijacking-primer-d2f61e8ab992
